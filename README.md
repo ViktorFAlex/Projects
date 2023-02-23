@@ -12,5 +12,5 @@ Projects was made as study plan in Hexlet.
 
 ## Test tasks
 Projects from repository with test tasks by multiple companies : [Test tasks repository](https://github.com/Hexlet/ru-test-assignments)    
-in progress...
+[Currency converter](https://github.com/ViktorFAlex/currency-converter) : ts + plain css + MUI
 
