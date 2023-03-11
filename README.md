@@ -11,7 +11,7 @@ Projects was made as study plan in Hexlet.
 1. [Chat](https://github.com/ViktorFAlex/frontend-project-12) : js + react + redux
 
 ## Typescript projects
-Projects was made for practicing skills
+Projects was made for practicing skills.
 
-[Currency converter](https://github.com/ViktorFAlex/currency-converter) : ts + react + MUI
+1. [Currency converter](https://github.com/ViktorFAlex/currency-converter) : ts + react + MUI
 
