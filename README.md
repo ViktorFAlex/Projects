@@ -10,7 +10,8 @@ Projects was made as study plan in Hexlet.
 1. [RSS generator](https://github.com/ViktorFAlex/frontend-project-11) : js + webpack + bootstrap
 1. [Chat](https://github.com/ViktorFAlex/frontend-project-12) : js + react + redux
 
-## Test tasks
-Projects from repository with test tasks by multiple companies : [Test tasks repository](https://github.com/Hexlet/ru-test-assignments)    
-[Currency converter](https://github.com/ViktorFAlex/currency-converter) : ts + plain css + MUI
+## Typescript projects
+Projects was made for practicing skills
+
+[Currency converter](https://github.com/ViktorFAlex/currency-converter) : ts + react + MUI
 
