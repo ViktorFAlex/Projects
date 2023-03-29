@@ -14,6 +14,6 @@ Projects was made as study plan in Hexlet.
 Projects was made for practicing skills.
 
 1. [Currency converter](https://github.com/ViktorFAlex/currency-converter): ts + react + MUI
-2. [League of legends inspired](https://github.com/ViktorFAlex/League-of-Legends-db): ts + react + Next.js + MUI
+2. Currently working on: [League of legends inspired](https://github.com/ViktorFAlex/League-of-Legends-db): ts + react + Next.js + MUI (WIP)...
 
 
