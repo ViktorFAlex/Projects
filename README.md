@@ -7,7 +7,7 @@ Projects was made as study plan in Hexlet.
 
 1. [Brain-games](https://github.com/ViktorFAlex/frontend-project-1) : node.js
 1. [Difference generator](https://github.com/ViktorFAlex/frontend-project-46) : node.js + commander + jest
-1. [Page loader](https://github.com/ViktorFAlex/backend-project-4) : node.js + cheerio + commander + jest (WiP...)
+1. [Page loader](https://github.com/ViktorFAlex/backend-project-4) : node.js + cheerio + commander + jest
 1. [RSS generator](https://github.com/ViktorFAlex/frontend-project-11) : js + webpack + bootstrap
 1. [Chat](https://github.com/ViktorFAlex/frontend-project-12) : js + react + redux
 
